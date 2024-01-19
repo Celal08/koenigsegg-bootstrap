@@ -4,7 +4,7 @@ This project showcases the design of the Koenigsegg brand car's website using HT
 
 ## Preview
 
-[Project Demo](https://ezgif.com/video-to-gif?url=https://example.com/source-video.mp4)
+[Project Demo](https://cheery-parfait-8557a5.netlify.app/)
 
 ![Project Preview](image/arac.png)
 
