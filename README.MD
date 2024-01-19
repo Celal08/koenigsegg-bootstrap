@@ -20,4 +20,4 @@ Projenin yerel ortamda çalıştırılması için aşağıdaki adımları izleyi
 
 1. Repoyu kopyalayın:
    ```bash
-   git clone 
+   git clone https://github.com/Celal08/koenigsegg-bootstrap
