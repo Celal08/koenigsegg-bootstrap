@@ -1,23 +1,23 @@
 # Koenigsegg with BS
 
-Bu proje, Koenigsegg marka aracın web sayfasının Bootstrap (BS) framework'ü kullanılarak HTML ve CSS ile tasarlandığı bir çalışmayı içermektedir.
+This project showcases the design of the Koenigsegg brand car's website using HTML and CSS with the Bootstrap (BS) framework.
 
-## Önizleme
+## Preview
 
-[Proje Demo](https://example.com)
+[Project Demo](https://example.com)
 
-![Proje Önizleme](image/arac.png)
+![Project Preview](screenshots/preview.png)
 
-## Teknolojiler
+## Technologies
 
 - HTML
 - CSS
 - Bootstrap (BS)
 
-## Başlangıç
+## Getting Started
 
-Projenin yerel ortamda çalıştırılması için aşağıdaki adımları izleyin:
+Follow the steps below to run the project locally:
 
-1. Repoyu kopyalayın:
+1. Clone the repository:
    ```bash
    git clone https://github.com/Celal08/koenigsegg-bootstrap
