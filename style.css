@@ -1,0 +1,40 @@
+body{
+    background-color: #26292A;
+}
+
+.carousel-inner h5{
+    color: #fff;
+}
+
+.carousel-inner p{
+    color: rgba(233, 29, 29, 0.842);
+}
+
+
+.card{
+    color: red;
+    box-shadow: 0 0 10px 5px;
+}
+.card a:hover,
+.card img:hover{
+    -ms-transform: scale(1.2); 
+ -webkit-transform: scale(1.2); 
+  transform: scale(1.2); 
+  
+}
+.contact input{
+    background-color: rgba(50, 50, 238, 0.575);
+}
+
+.contact label{
+    color: rgba(233, 29, 29, 0.842);
+}
+.new{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.bi{
+    color: rgba(233, 29, 29, 0.842);
+}
+
