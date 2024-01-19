@@ -6,7 +6,7 @@ This project showcases the design of the Koenigsegg brand car's website using HT
 
 [Project Demo](https://example.com)
 
-![Project Preview](screenshots/preview.png)
+![Project Preview](image/arac.png)
 
 ## Technologies
 
